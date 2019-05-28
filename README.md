@@ -1,1 +1,1 @@
-this is a readme file
+Learning Go from https://gobyexample.com
